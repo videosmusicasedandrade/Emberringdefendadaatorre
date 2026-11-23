@@ -1,0 +1,6 @@
+{
+  "name": "Ember Ring Defense",
+  "description": "Defesa de arena circular Flat Art 2.5D contra hordas em HTML5 Canvas a 60 FPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
